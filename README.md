@@ -16,7 +16,7 @@ Full responsive card slider with html , css , Bootstrap css , js.
     <br />
     demo link:
     <a
-      href="https://aliakbar-nazemi.github.io/Card-Bank/"
+      href="https://aliakbarnazemi-web.github.io/Card-Bank/"
       target="_blank"
       style="width: fit-content; padding: 10px; background-color: #a8cd89"
       >Demo</a
